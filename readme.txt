@@ -1,2 +1,6 @@
 hello, world! -- from agese.
-I'm now writing on a branch "master".
+<<<<<<< HEAD
+I'm now writing on local branch.
+=======
+I'm now writing on local branch.
+>>>>>>> feature1
